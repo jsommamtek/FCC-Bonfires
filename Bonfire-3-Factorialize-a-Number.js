@@ -14,7 +14,6 @@ function factorialize(num) {
 
 // Make sure you have JQuery lib ref
 // Run some Tests in CodePen
-$("#myDiv").html(factorialize(0) + "<br />" +
-                  factorialize(5) + "<br />" +
+$("#myDiv").html(factorialize(5) + "<br />" +
                   factorialize(10) + "<br />" +
                   factorialize(20));
